@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		/* Visit https://aka.ms/tsconfig.json to read more about this file */
+		"target": "es5",
+		"module": "commonjs",
+		"importHelpers": true,
+		"strict": true,
+		"moduleResolution": "node",
+		"forceConsistentCasingInFileNames": true,
+		"plugins": [{ "name": "typescript-lit-html-plugin" }]
+	}
+}
