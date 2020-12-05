@@ -18,7 +18,8 @@
 		"formulahendry.auto-close-tag",
 		"formulahendry.auto-rename-tag",
 		"coenraads.bracket-pair-colorizer-2",
-		"pranaygp.vscode-css-peek"
+		"pranaygp.vscode-css-peek",
+		"steoates.autoimport"
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": []
